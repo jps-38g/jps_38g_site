@@ -566,7 +566,7 @@ params:
     title: "James S"
     subtitle: "Analytics and Data Science Practitioner"
     content: "With a career grounded in marketing analytics and data science, I enjoy sharing meaningful insights and experiences for practitioners in the field, while exploring data science initiatives, outside of marketing, that can contribute to the greater good."
-    image: /images/marketing_analytics.png
+    image: images/marketing_analytics.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -590,7 +590,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me_image.png"
+    image: "images/me_image.png"
     content: |-
       A well-rounded leader with an established record of generating measurable value from advanced analytics in the field of marketing. 
       
@@ -765,7 +765,7 @@ params:
    items:
     - title: Project One
       content: An Evaluation of Data Science Use Cases in Marketing and their Adherence to GDPR Guidelines
-      image: /images/projects/gdpr_data1.png
+      image: images/projects/gdpr_data1.png
       featured:
         name: GitHub Repo
         link: https://github.com/jps-38g/GDPR-marketing-data-science-use-cases
@@ -778,7 +778,7 @@ params:
 
     - title: Project Two
       content: Fake Job Posting Detection — Model Comparison Project
-      image: /images/projects/Fake_jobs.png
+      image: images/projects/Fake_jobs.png
       featured:
         name: GitHub Repo
         link: https://github.com/jps-38g/Detecting_fake_job_postings
